@@ -1,5 +1,11 @@
 # Quiz Millionaire Challenge
 
+## Demo Video
+
+Watch the demo video on YouTube:
+
+[![Quiz Demo YouTube](https://img.youtube.com/vi/EJz8rc-KfSY/hqdefault.jpg)](https://youtu.be/EJz8rc-KfSY)
+
 ## Overview
 The Quiz Millionaire Challenge is an engaging trivia game inspired by the popular game show "Who Wants to Be a Millionaire?". This Python-based desktop application challenges players with a series questions as they attempt to win a virtual million dollars. It features multiple choice questions, various lifelines to assist the player, and dynamic question generation using the Ollama API.
 
